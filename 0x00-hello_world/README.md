@@ -1,1 +1,1 @@
-script that compiles a C file and creates an executable file with a different name
+ a C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line using printf.
